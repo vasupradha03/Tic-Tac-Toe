@@ -111,6 +111,6 @@ function selectWinner() {
     }
 }
 replayBtn.onclick = () => {
-    setTimeout(() => { location.reload(); }, 300);
+    setTimeout(() => { location.reload(); }, 100);
 
 }
